@@ -13,9 +13,9 @@ eureka:
 
 spring:
   application:
-    name: ldm-service-user
+    name: ldm-service-code
   datasource:
-    username: root
-    password: admin
+    username: dev
+    password: wdphdev2018
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/ldmcloud?serverTimezone=UTC
+    url: jdbc:mysql://10.53.156.240:3306/account
