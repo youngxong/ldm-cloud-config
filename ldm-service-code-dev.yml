@@ -18,4 +18,4 @@ spring:
     username: dev
     password: wdphdev2018
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://10.53.156.240:3306/assetaccount
+    url: jdbc:mysql://10.53.156.240:3306/account
