@@ -15,7 +15,7 @@ spring:
   application:
     name: ldm-service-mail
   datasource:
-    username: dev
-    password: wdphdev2018
+    username: root
+    password: admin
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://10.53.156.240:3306/account
+    url: jdbc:mysql://localhost:3306/ldmcloud?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
