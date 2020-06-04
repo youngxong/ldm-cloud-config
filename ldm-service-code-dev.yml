@@ -1,5 +1,5 @@
 server:
-  port: 8089
+  port: 8081
 eureka:
   instance:
     #需要导入spring-cloud-commons，cloud2.x迁移入spring-cloud-commons
